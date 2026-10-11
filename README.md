@@ -1,9 +1,9 @@
-# HITORI BOT (Base)
+# NECOARC BOT (Base)
 
 > Base WhatsApp bot built with Baileys.
 > ⭐ Don't forget to star this repo if you find it useful!
 
-[![GitHub stars](https://img.shields.io/github/stars/i1void/hitori-bot?style=flat-square&color=ff5e5b)](https://github.com/i1void/hitori-bot/stargazers) [![GitHub forks](https://img.shields.io/github/forks/i1void/hitori-bot?style=flat-square)](https://github.com/i1void/hitori-bot/network/members) [![License](https://img.shields.io/github/license/i1void/hitori-bot?style=flat-square)](https://github.com/i1void/hitori-bot/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/i1void/necoarc-bot?style=flat-square&color=ff5e5b)](https://github.com/i1void/necoarc-bot/stargazers) [![GitHub forks](https://img.shields.io/github/forks/i1void/necoarc-bot?style=flat-square)](https://github.com/i1void/necoarc-bot/network/members) [![License](https://img.shields.io/github/license/i1void/necoarc-bot?style=flat-square)](https://github.com/i1void/necoarc-bot/blob/main/LICENSE)
 
 ## Features
 
@@ -18,8 +18,8 @@
 
 ```
 # Clone repository
-git clone https://github.com/i1void/hitori-bot.git
-cd hitori-bot
+git clone https://github.com/i1void/necoarc-bot.git
+cd necoarc-bot
 
 # Install dependencies
 npm install
