@@ -3,7 +3,7 @@
 > Base WhatsApp bot built with Baileys.
 > ⭐ Don't forget to star this repo if you find it useful!
 
-[![GitHub stars](https://img.shields.io/github/stars/i1void/necoarc-bot?style=flat-square&color=ff5e5b)](https://github.com/i1void/necoarc-bot/stargazers) [![GitHub forks](https://img.shields.io/github/forks/i1void/necoarc-bot?style=flat-square)](https://github.com/i1void/necoarc-bot/network/members) [![License](https://img.shields.io/github/license/i1void/necoarc-bot?style=flat-square)](https://github.com/i1void/necoarc-bot/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/i1void/crux-bot?style=flat-square&color=ff5e5b)](https://github.com/i1void/crux-bot/stargazers) [![GitHub forks](https://img.shields.io/github/forks/i1void/crux-bot?style=flat-square)](https://github.com/i1void/crux-bot/network/members) [![License](https://img.shields.io/github/license/i1void/crux-bot?style=flat-square)](https://github.com/i1void/crux-bot/blob/main/LICENSE)
 
 ## Features
 
