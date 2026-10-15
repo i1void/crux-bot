@@ -1,4 +1,4 @@
-# NECOARC BOT (Base)
+# CRUX BOT (Base)
 
 > Base WhatsApp bot built with Baileys.
 > ⭐ Don't forget to star this repo if you find it useful!
